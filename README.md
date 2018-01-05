@@ -10,6 +10,6 @@
 ### Composer
 
 ```bash
-$ composer config gulusoft-weipay vcs https://github.com/gulusoft/weipay.git
-$ composer require gulusoftt/weipay:~1.0.0
+$ composer config repositories.gulusoft-weipay git https://github.com/gulusoft/weipay.git
+$ composer require gulusoft/weipay:~1.0.0
 ```
