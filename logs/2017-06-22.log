@@ -1,0 +1,501 @@
+[2017-06-22 13:25:50][debug] begin notify
+[2017-06-22 13:25:50][debug] '<xml><appid><![CDATA[wxc95c340c98336eb9]]></appid>
+<attach><![CDATA[test]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1481999672]]></mch_id>
+<nonce_str><![CDATA[mb1d9a3fk4bpat18cjks8f1rthmevyiu]]></nonce_str>
+<openid><![CDATA[oUCB4twpVCJOcfClRZVGYL42nWZA]]></openid>
+<out_trade_no><![CDATA[148199967220170622132309-5]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[6C12014EF29E3283DAA9EA587C2AA886]]></sign>
+<time_end><![CDATA[20170622132317]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4006922001201706226883049095]]></transaction_id>
+</xml>'
+[2017-06-22 13:25:50][debug] array (
+)
+[2017-06-22 13:25:50][debug] array (
+)
+[2017-06-22 13:25:50][debug] array (
+)
+[2017-06-22 13:25:50][debug] array (
+  'REDIRECT_STATUS' => '200',
+  'HTTP_HOST' => 'huayuweixing.168.com',
+  'HTTP_X_REAL_IP' => '192.168.18.100',
+  'HTTP_X_FORWARDED_FOR' => '192.168.18.100',
+  'HTTP_CONNECTION' => 'close',
+  'CONTENT_LENGTH' => '838',
+  'CONTENT_TYPE' => 'application/x-www-form-urlencoded',
+  'HTTP_COOKIE' => 'PHPSESSID=75gqvp48qpl4j4b2fn4a2m3cp4',
+  'PATH' => '/sbin:/usr/sbin:/bin:/usr/bin',
+  'LD_LIBRARY_PATH' => '/usr/local/apache2PHP5.5//lib',
+  'SERVER_SIGNATURE' => '',
+  'SERVER_SOFTWARE' => 'Apache/2.4.25 (Unix) PHP/5.5.25',
+  'SERVER_NAME' => 'huayuweixing.168.com',
+  'SERVER_ADDR' => '127.0.0.1',
+  'SERVER_PORT' => '80',
+  'REMOTE_ADDR' => '127.0.0.1',
+  'DOCUMENT_ROOT' => '/home/guzhongzhi/expacta/huayuweixing',
+  'REQUEST_SCHEME' => 'http',
+  'CONTEXT_PREFIX' => '',
+  'CONTEXT_DOCUMENT_ROOT' => '/home/guzhongzhi/expacta/huayuweixing',
+  'SERVER_ADMIN' => 'webmaster@dummy-host.example.com',
+  'SCRIPT_FILENAME' => '/home/guzhongzhi/expacta/huayuweixing/index.php',
+  'REMOTE_PORT' => '42622',
+  'REDIRECT_URL' => '/home/WeiXin/notify',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.0',
+  'REQUEST_METHOD' => 'POST',
+  'QUERY_STRING' => '',
+  'REQUEST_URI' => '/home/WeiXin/notify',
+  'SCRIPT_NAME' => '/index.php',
+  'PATH_INFO' => '/home/WeiXin/notify',
+  'PATH_TRANSLATED' => 'redirect:/index.php/home/WeiXin/notify/WeiXin/notify',
+  'PHP_SELF' => '/index.php/home/WeiXin/notify',
+  'REQUEST_TIME_FLOAT' => 1498109150.1440001,
+  'REQUEST_TIME' => 1498109150,
+)
+[2017-06-22 13:26:55][debug] begin notify
+[2017-06-22 13:26:55][debug] '<xml><appid><![CDATA[wxc95c340c98336eb9]]></appid>
+<attach><![CDATA[test]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1481999672]]></mch_id>
+<nonce_str><![CDATA[mb1d9a3fk4bpat18cjks8f1rthmevyiu]]></nonce_str>
+<openid><![CDATA[oUCB4twpVCJOcfClRZVGYL42nWZA]]></openid>
+<out_trade_no><![CDATA[148199967220170622132309-5]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[6C12014EF29E3283DAA9EA587C2AA886]]></sign>
+<time_end><![CDATA[20170622132317]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4006922001201706226883049095]]></transaction_id>
+</xml>'
+[2017-06-22 13:26:55][debug] array (
+)
+[2017-06-22 13:26:55][debug] array (
+)
+[2017-06-22 13:26:55][debug] array (
+)
+[2017-06-22 13:26:55][debug] array (
+  'REDIRECT_STATUS' => '200',
+  'HTTP_HOST' => 'huayuweixing.168.com',
+  'HTTP_X_REAL_IP' => '192.168.18.100',
+  'HTTP_X_FORWARDED_FOR' => '192.168.18.100',
+  'HTTP_CONNECTION' => 'close',
+  'CONTENT_LENGTH' => '838',
+  'CONTENT_TYPE' => 'application/x-www-form-urlencoded',
+  'HTTP_COOKIE' => 'PHPSESSID=75gqvp48qpl4j4b2fn4a2m3cp4',
+  'PATH' => '/sbin:/usr/sbin:/bin:/usr/bin',
+  'LD_LIBRARY_PATH' => '/usr/local/apache2PHP5.5//lib',
+  'SERVER_SIGNATURE' => '',
+  'SERVER_SOFTWARE' => 'Apache/2.4.25 (Unix) PHP/5.5.25',
+  'SERVER_NAME' => 'huayuweixing.168.com',
+  'SERVER_ADDR' => '127.0.0.1',
+  'SERVER_PORT' => '80',
+  'REMOTE_ADDR' => '127.0.0.1',
+  'DOCUMENT_ROOT' => '/home/guzhongzhi/expacta/huayuweixing',
+  'REQUEST_SCHEME' => 'http',
+  'CONTEXT_PREFIX' => '',
+  'CONTEXT_DOCUMENT_ROOT' => '/home/guzhongzhi/expacta/huayuweixing',
+  'SERVER_ADMIN' => 'webmaster@dummy-host.example.com',
+  'SCRIPT_FILENAME' => '/home/guzhongzhi/expacta/huayuweixing/index.php',
+  'REMOTE_PORT' => '42736',
+  'REDIRECT_URL' => '/home/WeiXin/notify',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.0',
+  'REQUEST_METHOD' => 'POST',
+  'QUERY_STRING' => '',
+  'REQUEST_URI' => '/home/WeiXin/notify',
+  'SCRIPT_NAME' => '/index.php',
+  'PATH_INFO' => '/home/WeiXin/notify',
+  'PATH_TRANSLATED' => 'redirect:/index.php/home/WeiXin/notify/WeiXin/notify',
+  'PHP_SELF' => '/index.php/home/WeiXin/notify',
+  'REQUEST_TIME_FLOAT' => 1498109215.211,
+  'REQUEST_TIME' => 1498109215,
+)
+[2017-06-22 13:28:08][debug] begin notify
+[2017-06-22 13:28:08][debug] '<xml><appid><![CDATA[wxc95c340c98336eb9]]></appid>
+<attach><![CDATA[test]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1481999672]]></mch_id>
+<nonce_str><![CDATA[mb1d9a3fk4bpat18cjks8f1rthmevyiu]]></nonce_str>
+<openid><![CDATA[oUCB4twpVCJOcfClRZVGYL42nWZA]]></openid>
+<out_trade_no><![CDATA[148199967220170622132309-5]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[6C12014EF29E3283DAA9EA587C2AA886]]></sign>
+<time_end><![CDATA[20170622132317]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4006922001201706226883049095]]></transaction_id>
+</xml>'
+[2017-06-22 13:28:08][debug] array (
+)
+[2017-06-22 13:28:08][debug] array (
+)
+[2017-06-22 13:28:08][debug] array (
+)
+[2017-06-22 13:28:08][debug] array (
+  'REDIRECT_STATUS' => '200',
+  'HTTP_HOST' => 'huayuweixing.168.com',
+  'HTTP_X_REAL_IP' => '192.168.18.100',
+  'HTTP_X_FORWARDED_FOR' => '192.168.18.100',
+  'HTTP_CONNECTION' => 'close',
+  'CONTENT_LENGTH' => '838',
+  'CONTENT_TYPE' => 'application/x-www-form-urlencoded',
+  'HTTP_COOKIE' => 'PHPSESSID=75gqvp48qpl4j4b2fn4a2m3cp4',
+  'PATH' => '/sbin:/usr/sbin:/bin:/usr/bin',
+  'LD_LIBRARY_PATH' => '/usr/local/apache2PHP5.5//lib',
+  'SERVER_SIGNATURE' => '',
+  'SERVER_SOFTWARE' => 'Apache/2.4.25 (Unix) PHP/5.5.25',
+  'SERVER_NAME' => 'huayuweixing.168.com',
+  'SERVER_ADDR' => '127.0.0.1',
+  'SERVER_PORT' => '80',
+  'REMOTE_ADDR' => '127.0.0.1',
+  'DOCUMENT_ROOT' => '/home/guzhongzhi/expacta/huayuweixing',
+  'REQUEST_SCHEME' => 'http',
+  'CONTEXT_PREFIX' => '',
+  'CONTEXT_DOCUMENT_ROOT' => '/home/guzhongzhi/expacta/huayuweixing',
+  'SERVER_ADMIN' => 'webmaster@dummy-host.example.com',
+  'SCRIPT_FILENAME' => '/home/guzhongzhi/expacta/huayuweixing/index.php',
+  'REMOTE_PORT' => '42844',
+  'REDIRECT_URL' => '/home/WeiXin/notify',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.0',
+  'REQUEST_METHOD' => 'POST',
+  'QUERY_STRING' => '',
+  'REQUEST_URI' => '/home/WeiXin/notify',
+  'SCRIPT_NAME' => '/index.php',
+  'PATH_INFO' => '/home/WeiXin/notify',
+  'PATH_TRANSLATED' => 'redirect:/index.php/home/WeiXin/notify/WeiXin/notify',
+  'PHP_SELF' => '/index.php/home/WeiXin/notify',
+  'REQUEST_TIME_FLOAT' => 1498109288.21,
+  'REQUEST_TIME' => 1498109288,
+)
+[2017-06-22 13:28:46][debug] begin notify
+[2017-06-22 13:28:46][debug] '<xml><appid><![CDATA[wxc95c340c98336eb9]]></appid>
+<attach><![CDATA[test]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1481999672]]></mch_id>
+<nonce_str><![CDATA[mb1d9a3fk4bpat18cjks8f1rthmevyiu]]></nonce_str>
+<openid><![CDATA[oUCB4twpVCJOcfClRZVGYL42nWZA]]></openid>
+<out_trade_no><![CDATA[148199967220170622132309-5]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[6C12014EF29E3283DAA9EA587C2AA886]]></sign>
+<time_end><![CDATA[20170622132317]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4006922001201706226883049095]]></transaction_id>
+</xml>'
+[2017-06-22 13:28:46][debug] array (
+)
+[2017-06-22 13:28:46][debug] array (
+)
+[2017-06-22 13:28:46][debug] array (
+)
+[2017-06-22 13:28:46][debug] array (
+  'REDIRECT_STATUS' => '200',
+  'HTTP_HOST' => 'huayuweixing.168.com',
+  'HTTP_X_REAL_IP' => '192.168.18.100',
+  'HTTP_X_FORWARDED_FOR' => '192.168.18.100',
+  'HTTP_CONNECTION' => 'close',
+  'CONTENT_LENGTH' => '838',
+  'CONTENT_TYPE' => 'application/x-www-form-urlencoded',
+  'HTTP_COOKIE' => 'PHPSESSID=75gqvp48qpl4j4b2fn4a2m3cp4',
+  'PATH' => '/sbin:/usr/sbin:/bin:/usr/bin',
+  'LD_LIBRARY_PATH' => '/usr/local/apache2PHP5.5//lib',
+  'SERVER_SIGNATURE' => '',
+  'SERVER_SOFTWARE' => 'Apache/2.4.25 (Unix) PHP/5.5.25',
+  'SERVER_NAME' => 'huayuweixing.168.com',
+  'SERVER_ADDR' => '127.0.0.1',
+  'SERVER_PORT' => '80',
+  'REMOTE_ADDR' => '127.0.0.1',
+  'DOCUMENT_ROOT' => '/home/guzhongzhi/expacta/huayuweixing',
+  'REQUEST_SCHEME' => 'http',
+  'CONTEXT_PREFIX' => '',
+  'CONTEXT_DOCUMENT_ROOT' => '/home/guzhongzhi/expacta/huayuweixing',
+  'SERVER_ADMIN' => 'webmaster@dummy-host.example.com',
+  'SCRIPT_FILENAME' => '/home/guzhongzhi/expacta/huayuweixing/index.php',
+  'REMOTE_PORT' => '42904',
+  'REDIRECT_URL' => '/home/WeiXin/notify',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.0',
+  'REQUEST_METHOD' => 'POST',
+  'QUERY_STRING' => '',
+  'REQUEST_URI' => '/home/WeiXin/notify',
+  'SCRIPT_NAME' => '/index.php',
+  'PATH_INFO' => '/home/WeiXin/notify',
+  'PATH_TRANSLATED' => 'redirect:/index.php/home/WeiXin/notify/WeiXin/notify',
+  'PHP_SELF' => '/index.php/home/WeiXin/notify',
+  'REQUEST_TIME_FLOAT' => 1498109326.7869999,
+  'REQUEST_TIME' => 1498109326,
+)
+[2017-06-22 13:29:21][debug] begin notify
+[2017-06-22 13:29:21][debug] '<xml><appid><![CDATA[wxc95c340c98336eb9]]></appid>
+<attach><![CDATA[test]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1481999672]]></mch_id>
+<nonce_str><![CDATA[mb1d9a3fk4bpat18cjks8f1rthmevyiu]]></nonce_str>
+<openid><![CDATA[oUCB4twpVCJOcfClRZVGYL42nWZA]]></openid>
+<out_trade_no><![CDATA[148199967220170622132309-5]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[6C12014EF29E3283DAA9EA587C2AA886]]></sign>
+<time_end><![CDATA[20170622132317]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4006922001201706226883049095]]></transaction_id>
+</xml>'
+[2017-06-22 13:29:21][debug] array (
+)
+[2017-06-22 13:29:21][debug] array (
+)
+[2017-06-22 13:29:21][debug] array (
+)
+[2017-06-22 13:29:21][debug] array (
+  'REDIRECT_STATUS' => '200',
+  'HTTP_HOST' => 'huayuweixing.168.com',
+  'HTTP_X_REAL_IP' => '192.168.18.100',
+  'HTTP_X_FORWARDED_FOR' => '192.168.18.100',
+  'HTTP_CONNECTION' => 'close',
+  'CONTENT_LENGTH' => '838',
+  'CONTENT_TYPE' => 'application/x-www-form-urlencoded',
+  'HTTP_COOKIE' => 'PHPSESSID=75gqvp48qpl4j4b2fn4a2m3cp4',
+  'PATH' => '/sbin:/usr/sbin:/bin:/usr/bin',
+  'LD_LIBRARY_PATH' => '/usr/local/apache2PHP5.5//lib',
+  'SERVER_SIGNATURE' => '',
+  'SERVER_SOFTWARE' => 'Apache/2.4.25 (Unix) PHP/5.5.25',
+  'SERVER_NAME' => 'huayuweixing.168.com',
+  'SERVER_ADDR' => '127.0.0.1',
+  'SERVER_PORT' => '80',
+  'REMOTE_ADDR' => '127.0.0.1',
+  'DOCUMENT_ROOT' => '/home/guzhongzhi/expacta/huayuweixing',
+  'REQUEST_SCHEME' => 'http',
+  'CONTEXT_PREFIX' => '',
+  'CONTEXT_DOCUMENT_ROOT' => '/home/guzhongzhi/expacta/huayuweixing',
+  'SERVER_ADMIN' => 'webmaster@dummy-host.example.com',
+  'SCRIPT_FILENAME' => '/home/guzhongzhi/expacta/huayuweixing/index.php',
+  'REMOTE_PORT' => '42956',
+  'REDIRECT_URL' => '/home/WeiXin/notify',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.0',
+  'REQUEST_METHOD' => 'POST',
+  'QUERY_STRING' => '',
+  'REQUEST_URI' => '/home/WeiXin/notify',
+  'SCRIPT_NAME' => '/index.php',
+  'PATH_INFO' => '/home/WeiXin/notify',
+  'PATH_TRANSLATED' => 'redirect:/index.php/home/WeiXin/notify/WeiXin/notify',
+  'PHP_SELF' => '/index.php/home/WeiXin/notify',
+  'REQUEST_TIME_FLOAT' => 1498109361.664,
+  'REQUEST_TIME' => 1498109361,
+)
+[2017-06-22 13:29:21][debug] call back:{"appid":"wxc95c340c98336eb9","attach":"test","bank_type":"CFT","cash_fee":"1","fee_type":"CNY","is_subscribe":"Y","mch_id":"1481999672","nonce_str":"mb1d9a3fk4bpat18cjks8f1rthmevyiu","openid":"oUCB4twpVCJOcfClRZVGYL42nWZA","out_trade_no":"148199967220170622132309-5","result_code":"SUCCESS","return_code":"SUCCESS","sign":"6C12014EF29E3283DAA9EA587C2AA886","time_end":"20170622132317","total_fee":"1","trade_type":"JSAPI","transaction_id":"4006922001201706226883049095"}
+[2017-06-22 13:29:22][debug] query:{"return_code":"FAIL","return_msg":"mch_id\u53c2\u6570\u957f\u5ea6\u6709\u8bef"}
+[2017-06-22 13:29:43][debug] begin notify
+[2017-06-22 13:29:43][debug] '<xml><appid><![CDATA[wxc95c340c98336eb9]]></appid>
+<attach><![CDATA[test]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1481999672]]></mch_id>
+<nonce_str><![CDATA[mb1d9a3fk4bpat18cjks8f1rthmevyiu]]></nonce_str>
+<openid><![CDATA[oUCB4twpVCJOcfClRZVGYL42nWZA]]></openid>
+<out_trade_no><![CDATA[148199967220170622132309-5]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[6C12014EF29E3283DAA9EA587C2AA886]]></sign>
+<time_end><![CDATA[20170622132317]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4006922001201706226883049095]]></transaction_id>
+</xml>'
+[2017-06-22 13:29:43][debug] array (
+)
+[2017-06-22 13:29:43][debug] array (
+)
+[2017-06-22 13:29:43][debug] array (
+)
+[2017-06-22 13:29:43][debug] array (
+  'REDIRECT_STATUS' => '200',
+  'HTTP_HOST' => 'huayuweixing.168.com',
+  'HTTP_X_REAL_IP' => '192.168.18.100',
+  'HTTP_X_FORWARDED_FOR' => '192.168.18.100',
+  'HTTP_CONNECTION' => 'close',
+  'CONTENT_LENGTH' => '838',
+  'CONTENT_TYPE' => 'application/x-www-form-urlencoded',
+  'HTTP_COOKIE' => 'PHPSESSID=75gqvp48qpl4j4b2fn4a2m3cp4',
+  'PATH' => '/sbin:/usr/sbin:/bin:/usr/bin',
+  'LD_LIBRARY_PATH' => '/usr/local/apache2PHP5.5//lib',
+  'SERVER_SIGNATURE' => '',
+  'SERVER_SOFTWARE' => 'Apache/2.4.25 (Unix) PHP/5.5.25',
+  'SERVER_NAME' => 'huayuweixing.168.com',
+  'SERVER_ADDR' => '127.0.0.1',
+  'SERVER_PORT' => '80',
+  'REMOTE_ADDR' => '127.0.0.1',
+  'DOCUMENT_ROOT' => '/home/guzhongzhi/expacta/huayuweixing',
+  'REQUEST_SCHEME' => 'http',
+  'CONTEXT_PREFIX' => '',
+  'CONTEXT_DOCUMENT_ROOT' => '/home/guzhongzhi/expacta/huayuweixing',
+  'SERVER_ADMIN' => 'webmaster@dummy-host.example.com',
+  'SCRIPT_FILENAME' => '/home/guzhongzhi/expacta/huayuweixing/index.php',
+  'REMOTE_PORT' => '43002',
+  'REDIRECT_URL' => '/home/WeiXin/notify',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.0',
+  'REQUEST_METHOD' => 'POST',
+  'QUERY_STRING' => '',
+  'REQUEST_URI' => '/home/WeiXin/notify',
+  'SCRIPT_NAME' => '/index.php',
+  'PATH_INFO' => '/home/WeiXin/notify',
+  'PATH_TRANSLATED' => 'redirect:/index.php/home/WeiXin/notify/WeiXin/notify',
+  'PHP_SELF' => '/index.php/home/WeiXin/notify',
+  'REQUEST_TIME_FLOAT' => 1498109383.0250001,
+  'REQUEST_TIME' => 1498109383,
+)
+[2017-06-22 13:29:43][debug] call back:{"appid":"wxc95c340c98336eb9","attach":"test","bank_type":"CFT","cash_fee":"1","fee_type":"CNY","is_subscribe":"Y","mch_id":"1481999672","nonce_str":"mb1d9a3fk4bpat18cjks8f1rthmevyiu","openid":"oUCB4twpVCJOcfClRZVGYL42nWZA","out_trade_no":"148199967220170622132309-5","result_code":"SUCCESS","return_code":"SUCCESS","sign":"6C12014EF29E3283DAA9EA587C2AA886","time_end":"20170622132317","total_fee":"1","trade_type":"JSAPI","transaction_id":"4006922001201706226883049095"}
+[2017-06-22 13:30:26][debug] begin notify
+[2017-06-22 13:30:26][debug] '<xml><appid><![CDATA[wxc95c340c98336eb9]]></appid>
+<attach><![CDATA[test]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1481999672]]></mch_id>
+<nonce_str><![CDATA[mb1d9a3fk4bpat18cjks8f1rthmevyiu]]></nonce_str>
+<openid><![CDATA[oUCB4twpVCJOcfClRZVGYL42nWZA]]></openid>
+<out_trade_no><![CDATA[148199967220170622132309-5]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[6C12014EF29E3283DAA9EA587C2AA886]]></sign>
+<time_end><![CDATA[20170622132317]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4006922001201706226883049095]]></transaction_id>
+</xml>'
+[2017-06-22 13:30:26][debug] array (
+)
+[2017-06-22 13:30:26][debug] array (
+)
+[2017-06-22 13:30:26][debug] array (
+)
+[2017-06-22 13:30:26][debug] array (
+  'REDIRECT_STATUS' => '200',
+  'HTTP_HOST' => 'huayuweixing.168.com',
+  'HTTP_X_REAL_IP' => '192.168.18.100',
+  'HTTP_X_FORWARDED_FOR' => '192.168.18.100',
+  'HTTP_CONNECTION' => 'close',
+  'CONTENT_LENGTH' => '838',
+  'CONTENT_TYPE' => 'application/x-www-form-urlencoded',
+  'HTTP_COOKIE' => 'PHPSESSID=75gqvp48qpl4j4b2fn4a2m3cp4',
+  'PATH' => '/sbin:/usr/sbin:/bin:/usr/bin',
+  'LD_LIBRARY_PATH' => '/usr/local/apache2PHP5.5//lib',
+  'SERVER_SIGNATURE' => '',
+  'SERVER_SOFTWARE' => 'Apache/2.4.25 (Unix) PHP/5.5.25',
+  'SERVER_NAME' => 'huayuweixing.168.com',
+  'SERVER_ADDR' => '127.0.0.1',
+  'SERVER_PORT' => '80',
+  'REMOTE_ADDR' => '127.0.0.1',
+  'DOCUMENT_ROOT' => '/home/guzhongzhi/expacta/huayuweixing',
+  'REQUEST_SCHEME' => 'http',
+  'CONTEXT_PREFIX' => '',
+  'CONTEXT_DOCUMENT_ROOT' => '/home/guzhongzhi/expacta/huayuweixing',
+  'SERVER_ADMIN' => 'webmaster@dummy-host.example.com',
+  'SCRIPT_FILENAME' => '/home/guzhongzhi/expacta/huayuweixing/index.php',
+  'REMOTE_PORT' => '43074',
+  'REDIRECT_URL' => '/home/WeiXin/notify',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.0',
+  'REQUEST_METHOD' => 'POST',
+  'QUERY_STRING' => '',
+  'REQUEST_URI' => '/home/WeiXin/notify',
+  'SCRIPT_NAME' => '/index.php',
+  'PATH_INFO' => '/home/WeiXin/notify',
+  'PATH_TRANSLATED' => 'redirect:/index.php/home/WeiXin/notify/WeiXin/notify',
+  'PHP_SELF' => '/index.php/home/WeiXin/notify',
+  'REQUEST_TIME_FLOAT' => 1498109426.0910001,
+  'REQUEST_TIME' => 1498109426,
+)
+[2017-06-22 13:33:12][debug] begin notify
+[2017-06-22 13:33:12][debug] '<xml><appid><![CDATA[wxc95c340c98336eb9]]></appid>
+<attach><![CDATA[test]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1481999672]]></mch_id>
+<nonce_str><![CDATA[mb1d9a3fk4bpat18cjks8f1rthmevyiu]]></nonce_str>
+<openid><![CDATA[oUCB4twpVCJOcfClRZVGYL42nWZA]]></openid>
+<out_trade_no><![CDATA[148199967220170622132309-5]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[6C12014EF29E3283DAA9EA587C2AA886]]></sign>
+<time_end><![CDATA[20170622132317]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4006922001201706226883049095]]></transaction_id>
+</xml>'
+[2017-06-22 13:33:12][debug] array (
+)
+[2017-06-22 13:33:12][debug] array (
+)
+[2017-06-22 13:33:12][debug] array (
+)
+[2017-06-22 13:33:12][debug] array (
+  'REDIRECT_STATUS' => '200',
+  'HTTP_HOST' => 'huayuweixing.168.com',
+  'HTTP_X_REAL_IP' => '192.168.18.100',
+  'HTTP_X_FORWARDED_FOR' => '192.168.18.100',
+  'HTTP_CONNECTION' => 'close',
+  'CONTENT_LENGTH' => '838',
+  'CONTENT_TYPE' => 'application/x-www-form-urlencoded',
+  'HTTP_COOKIE' => 'PHPSESSID=75gqvp48qpl4j4b2fn4a2m3cp4',
+  'PATH' => '/sbin:/usr/sbin:/bin:/usr/bin',
+  'LD_LIBRARY_PATH' => '/usr/local/apache2PHP5.5//lib',
+  'SERVER_SIGNATURE' => '',
+  'SERVER_SOFTWARE' => 'Apache/2.4.25 (Unix) PHP/5.5.25',
+  'SERVER_NAME' => 'huayuweixing.168.com',
+  'SERVER_ADDR' => '127.0.0.1',
+  'SERVER_PORT' => '80',
+  'REMOTE_ADDR' => '127.0.0.1',
+  'DOCUMENT_ROOT' => '/home/guzhongzhi/expacta/huayuweixing',
+  'REQUEST_SCHEME' => 'http',
+  'CONTEXT_PREFIX' => '',
+  'CONTEXT_DOCUMENT_ROOT' => '/home/guzhongzhi/expacta/huayuweixing',
+  'SERVER_ADMIN' => 'webmaster@dummy-host.example.com',
+  'SCRIPT_FILENAME' => '/home/guzhongzhi/expacta/huayuweixing/index.php',
+  'REMOTE_PORT' => '43330',
+  'REDIRECT_URL' => '/home/WeiXin/notify',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.0',
+  'REQUEST_METHOD' => 'POST',
+  'QUERY_STRING' => '',
+  'REQUEST_URI' => '/home/WeiXin/notify',
+  'SCRIPT_NAME' => '/index.php',
+  'PATH_INFO' => '/home/WeiXin/notify',
+  'PATH_TRANSLATED' => 'redirect:/index.php/home/WeiXin/notify/WeiXin/notify',
+  'PHP_SELF' => '/index.php/home/WeiXin/notify',
+  'REQUEST_TIME_FLOAT' => 1498109592.45,
+  'REQUEST_TIME' => 1498109592,
+)
+[2017-06-22 13:33:12][debug] call back:{"appid":"wxc95c340c98336eb9","attach":"test","bank_type":"CFT","cash_fee":"1","fee_type":"CNY","is_subscribe":"Y","mch_id":"1481999672","nonce_str":"mb1d9a3fk4bpat18cjks8f1rthmevyiu","openid":"oUCB4twpVCJOcfClRZVGYL42nWZA","out_trade_no":"148199967220170622132309-5","result_code":"SUCCESS","return_code":"SUCCESS","sign":"6C12014EF29E3283DAA9EA587C2AA886","time_end":"20170622132317","total_fee":"1","trade_type":"JSAPI","transaction_id":"4006922001201706226883049095"}
+[2017-06-22 13:33:12][debug] query:{"return_code":"FAIL","return_msg":"mch_id\u53c2\u6570\u957f\u5ea6\u6709\u8bef"}
