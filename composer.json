@@ -1,0 +1,25 @@
+{
+    "name": "gulusoft/weipay",
+    "license": "OSL-3.0",
+    "type": "weipay",
+    "description": "微信支付",
+    "require": {
+    },
+    "authors":[
+        {
+            "name":"Guz",
+            "email":"guzhongzhi@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "WxPay\\": ""
+        }
+    },
+    "repositories": {
+        "gulusoft/weipay": {
+            "type": "git",
+            "url": "https://github.com/gulusoft/weipay.git"
+        }
+    }
+}
