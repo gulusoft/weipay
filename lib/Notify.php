@@ -1,4 +1,5 @@
 <?php
+namespace GuluSoft\WxPay;
 /**
  * 
  * 回调基础类
