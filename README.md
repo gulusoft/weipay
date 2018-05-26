@@ -14,4 +14,4 @@ $ composer config repositories.gulusoft-weipay git https://github.com/gulusoft/w
 $ composer require gulusoft/weipay:~1.0.0
 ```
 
-NOTE:   
+NOTE:   TEST
